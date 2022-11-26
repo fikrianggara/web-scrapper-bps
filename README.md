@@ -4,3 +4,4 @@ memerlukan modul :
  - bs4
  - selenium
  - lxml
+ - google auth, dkk
